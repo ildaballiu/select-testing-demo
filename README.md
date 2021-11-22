@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# DEMO - React Select Testing
+
+This project was created to demo an [issue](https://sap.stackenterprise.co/q/5294/2112) with React Select.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
