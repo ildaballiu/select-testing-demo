@@ -1,6 +1,6 @@
 # DEMO - React Select Testing
 
-This project was created to demo an with React Select.
+This project was created to demo an issue with React Select.
 
 ## Getting Started with Create React App
 
