@@ -8,7 +8,7 @@ export default class App extends React.Component {
 			// this is filled out dynamically, setting here for simplification
 			conditions: [
 				{
-					name: "one",
+					name: "onetesttest",
 					indicator: {
 						value: "error_budget",
 						label: "Errors",
